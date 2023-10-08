@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tanjid-00/react_project.git/static/css/main.d80daac3.css",
+    "main.js": "/Tanjid-00/react_project.git/static/js/main.f97e6c26.js",
+    "index.html": "/Tanjid-00/react_project.git/index.html",
+    "main.d80daac3.css.map": "/Tanjid-00/react_project.git/static/css/main.d80daac3.css.map",
+    "main.f97e6c26.js.map": "/Tanjid-00/react_project.git/static/js/main.f97e6c26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d80daac3.css",
+    "static/js/main.f97e6c26.js"
+  ]
+}
