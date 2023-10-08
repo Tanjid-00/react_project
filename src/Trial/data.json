@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Shirt",
+        "img": "Shirt",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In doloribus, a, dolor laudantium quis illum numquam neque nostrum iure ab, rerum recusandae non hic? Dolores qui a magni pariatur nihil ipsum, harum exercitationem, fugit nostrum consequuntur reiciendis totam, iste blanditiis.",
+        "price": 20,
+        "rating": 4
+    },
+    {
+        "title": "Pant",
+        "img": "Pant",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In doloribus, a, dolor laudantium quis illum numquam neque nostrum iure ab, rerum recusandae non hic? Dolores qui a magni pariatur nihil ipsum, harum exercitationem, fugit nostrum consequuntur reiciendis totam, iste blanditiis.",
+        "price": 25,
+        "rating": 2
+    },
+    {
+        "title": "Cap",
+        "img": "Cap",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In doloribus, a, dolor laudantium quis illum numquam neque nostrum iure ab, rerum recusandae non hic? Dolores qui a magni pariatur nihil ipsum, harum exercitationem, fugit nostrum consequuntur reiciendis totam, iste blanditiis.",
+        "price": 10,
+        "rating": 4
+    },
+    {
+        "title": "Shoes",
+        "img": "Shoes",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In doloribus, a, dolor laudantium quis illum numquam neque nostrum iure ab, rerum recusandae non hic? Dolores qui a magni pariatur nihil ipsum, harum exercitationem, fugit nostrum consequuntur reiciendis totam, iste blanditiis.",
+        "price": 30,
+        "rating": 5
+    },
+    {
+        "title": "Hand-Watch",
+        "img": "Hand-Watch",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In doloribus, a, dolor laudantium quis illum numquam neque nostrum iure ab, rerum recusandae non hic? Dolores qui a magni pariatur nihil ipsum, harum exercitationem, fugit nostrum consequuntur reiciendis totam, iste blanditiis.",
+        "price": 45,
+        "rating": 3
+    },
+    {
+        "title": "Jacket",
+        "img": "Jacket",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In doloribus, a, dolor laudantium quis illum numquam neque nostrum iure ab, rerum recusandae non hic? Dolores qui a magni pariatur nihil ipsum, harum exercitationem, fugit nostrum consequuntur reiciendis totam, iste blanditiis.",
+        "price": 90,
+        "rating": 2
+    },
+    {
+        "title": "Bracelatte",
+        "img": "Bracelette",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In doloribus, a, dolor laudantium quis illum numquam neque nostrum iure ab, rerum recusandae non hic? Dolores qui a magni pariatur nihil ipsum, harum exercitationem, fugit nostrum consequuntur reiciendis totam, iste blanditiis.",
+        "price": 200,
+        "rating": 5
+    },
+    {
+        "title": "Sunglass",
+        "img": "Sunglass",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In doloribus, a, dolor laudantium quis illum numquam neque nostrum iure ab, rerum recusandae non hic? Dolores qui a magni pariatur nihil ipsum, harum exercitationem, fugit nostrum consequuntur reiciendis totam, iste blanditiis.",
+        "price": 35,
+        "rating": 5
+    },
+    {
+        "title": "Lipstick",
+        "img": "Lipstick",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In doloribus, a, dolor laudantium quis illum numquam neque nostrum iure ab, rerum recusandae non hic? Dolores qui a magni pariatur nihil ipsum, harum exercitationem, fugit nostrum consequuntur reiciendis totam, iste blanditiis.",
+        "price": 16,
+        "rating": 4
+    },
+    {
+        "title": "Eyeliner",
+        "img": "Eyeliner",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In doloribus, a, dolor laudantium quis illum numquam neque nostrum iure ab, rerum recusandae non hic? Dolores qui a magni pariatur nihil ipsum, harum exercitationem, fugit nostrum consequuntur reiciendis totam, iste blanditiis.",
+        "price": 43,
+        "rating": 1
+    },
+    {
+        "title": "Nailpolish",
+        "img": "Nailpolish",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In doloribus, a, dolor laudantium quis illum numquam neque nostrum iure ab, rerum recusandae non hic? Dolores qui a magni pariatur nihil ipsum, harum exercitationem, fugit nostrum consequuntur reiciendis totam, iste blanditiis.",
+        "price": 56,
+        "rating": 5
+    },
+    {
+        "title": "Face wash",
+        "img": "Face wash",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. In doloribus, a, dolor laudantium quis illum numquam neque nostrum iure ab, rerum recusandae non hic? Dolores qui a magni pariatur nihil ipsum, harum exercitationem, fugit nostrum consequuntur reiciendis totam, iste blanditiis.",
+        "price": 70,
+        "rating": 3
+    }
+]
